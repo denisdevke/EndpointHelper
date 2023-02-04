@@ -1,5 +1,5 @@
 {
-  "name": "endpoint",
+  "name": "techlup-endpoint",
   "version": "1.0.0",
   "description": "Endpoint client helper class for rest api",
   "main": "index.js",
